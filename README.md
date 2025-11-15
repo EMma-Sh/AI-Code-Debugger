@@ -74,9 +74,9 @@ You can improve documentation, add new features, optimize the analysis engine, o
 
 Eman Iqbal
 
-GitHub: github.com/EMma-SH
+GitHub: https://www.github.com/EMma-SH
 
-LinkedIn: linkedin.com/in/emaniqbal
+LinkedIn: https://www.linkedin.com/in/emaniqbal
 
 Email: emmnqb@gmail.com
 
