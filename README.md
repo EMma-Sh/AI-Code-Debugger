@@ -46,35 +46,7 @@ Recommends optimizations, readability improvements, and alternative logic enhanc
 
 🧩 Easy to integrate into other tools
 
-📦 Installation
-
-Clone the repository:
-
-git clone https://github.com/EMma-SH/ai-coder-debugger.git
-cd ai-coder-debugger
-
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-▶️ Usage Example
-from debugger import AICoderDebugger
-
-debugger = AICoderDebugger()
-
-code = """
-x = 10
-y = 0
-print(x / y)
-"""
-
-result = debugger.debug(code)
-print(result)
-
-Output:
-
-Error type
+Working
 
 Exact line causing the crash
 
@@ -98,13 +70,6 @@ Suggested corrected code
 
 Contributions are welcome!
 You can improve documentation, add new features, optimize the analysis engine, or fix bugs.
-
-Fork the repository
-
-Create a new branch
-
-Submit a pull request
-
 👩‍💻 Author
 
 Eman Iqbal
